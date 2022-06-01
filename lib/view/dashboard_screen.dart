@@ -7,8 +7,6 @@ import 'package:cd_demo/utils/star_rating.dart';
 import 'package:cd_demo/widgets/btn_bg.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/services.dart';
-import 'package:fluttertoast/fluttertoast.dart';
 import 'package:intl/intl.dart';
 
 class DashboardScreen extends StatefulWidget {

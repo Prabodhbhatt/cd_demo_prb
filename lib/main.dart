@@ -1,8 +1,6 @@
-
-import 'package:cd_demo/const/color_conts.dart';
 import 'package:cd_demo/const/route_const/app_routes.dart';
 import 'package:cd_demo/utils/route_generator.dart';
-import 'package:cd_demo/view/dashboard_screen.dart';
+
 
 import 'package:flutter/material.dart';
 
